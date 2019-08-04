@@ -1,0 +1,6 @@
+framework module Pods_demoIos_tvOS {
+  umbrella header "Pods-demoIos-tvOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
